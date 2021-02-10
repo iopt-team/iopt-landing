@@ -9,4 +9,4 @@ Check for firmware updates from your device vendor addressing Misfortune Cookie,
 * [Misfortune Cookie by Check Point](http://mis.fortunecook.ie/)
 * [Web Attack: Allegro RomPager CVE-2014-9222](https://www.symantec.com/security_response/attacksignatures/detail.jsp?asid=28015)
 
-> CVE-ID: CVE-2014-9222
+> CVE-2014-9222

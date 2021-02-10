@@ -16,4 +16,4 @@ Alongside the EternalBlue exploit the DoublePulsar implant tool is used. DoubleP
 * [A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.](https://github.com/countercept/doublepulsar-detection-script)
 * [Backdoor.Doublepulsar - Removal](https://www.symantec.com/security_response/writeup.jsp?docid=2017-042122-0603-99&tabid=3)
 
-> CVE-ID: CVE-2017-0143, CVE-2017-0144, CVE-2017-0145, CVE-2017-0146, CVE-2017-0148
+> CVE-2017-0143, CVE-2017-0144, CVE-2017-0145, CVE-2017-0146, CVE-2017-0148

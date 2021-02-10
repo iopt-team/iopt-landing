@@ -9,4 +9,4 @@ Most of the vendors issued patch for their routers, but still there are many rou
 * [ZTE, TP-Link, ZynOS, Huawei rom-0 Configuration Decompressor](https://packetstormsecurity.com/files/127049/ZTE-TP-Link-ZynOS-Huawei-rom-0-Configuration-Decompressor.html)
 * [HOW I SAVED YOUR A** FROM THE ZYNOS (ROM-0) ATTACK !!](https://nasro.me/2014/01/11/how-i-saved-your-a-from-the-zynos-rom-0-attack-full-disclosure/)
 
-> CVE-ID: CVE-2014-4019
+> CVE-2014-4019
