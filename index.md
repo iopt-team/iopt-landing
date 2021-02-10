@@ -1,37 +1,27 @@
-## Welcome to IoPT
+## About IoPT
 
-You can use the [editor on GitHub](https://github.com/dnovikov-pro-team/iopt-landing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**IoPT** is abbreviated from *"Internet of Protected Things"*. The aim of **IoPT** is to check SoHo(small office/home office) network security state by searching for a vulnerable network connected device(s). By using **IoPT**, you will get know, what security issue(s) do you have and how to fix it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### IoPT Vulnerability Tests
 
-### Markdown
+- *CVE–2014–9222* aka "Misfortune Cookie" vulerability confirmed
+- *CVE-2014-4019* the rom-0 backup file
+- *CVE-2014-9583* unauthenticated command execution vulnerability in ASUS "infosrv" UDP service
+- Linksys E-Series unauthenticated OS command injection
+- DBL(Domain Name System Blacklists) enlisting
+- *CVE-2020-12695* SSRF-like vulnerability detected a.k.a. CallStranger
+- Check if DNS server IP address and the network public IP address belong to the same GEO and/or ISP
+- *CVE-2017-0144* SMB server allows remote attackers to execute arbitrary code via crafted packets
+- MikroTik RouterOS contains a remote code execution vulnerability aka "Chimay Red"
+- *CVE-2017-5135* SNMP authentication bypass(aka StringBleed)
+- *CVE-2019-7192,CVE-2019-7194,CVE-2019-7195* A local file inclusion vulnerability that allows an unauthenticated attacker to download files from the QNAP filesystem
+- *CVE-2020-11117* An exploitable command execution vulnerability in the lbd service functionality of Qualcomm
+- An unauthenticated PHP code injection in Seagate NAS products
+- *CVE-2020-27403* A vulnerability in the TCL Android Smart TV series by TCL Technology Group Corporation
+- *CVE-2020-28347,CVE-2020-10882* An unauthenticated network-adjacent RCE by abusing the tldServer daemon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IoPT Toolset
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dnovikov-pro-team/iopt-landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **"Have I Been Pwned Tool"** - Allows to check, if you have an account that has been compromised in a data breach
+- **"Shodan Tool"** - Allows to check, if you have someting exposed directly to the Internet
+- **"Port Scan Tool"** - Allows to check, which port(s) is open on a remote device
