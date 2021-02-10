@@ -2,6 +2,8 @@
 
 **IoPT** is abbreviated from *"Internet of Protected Things"*. The aim of **IoPT** is to check SoHo(small office/home office) network security state by searching for a vulnerable network connected device(s). By using **IoPT**, you will get know, what security issue(s) do you have and how to fix it.
 
+**IMPORTANT: PLEASE READ THE [LICENSE](eula.md) CAREFULLY BEFORE USING THIS SOFTWARE.**
+
 ### Vulnerability Tests
 
 - [*CVE–2014–9222* aka "Misfortune Cookie" vulerability confirmed](vulndb/allegrosoft-rompager-4-34-and-earlier-allows-remote-attackers-to-gain-privileges.md)
