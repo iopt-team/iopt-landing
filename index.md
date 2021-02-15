@@ -4,6 +4,14 @@
 
 **IMPORTANT: PLEASE READ THE [LICENSE](eula.md) CAREFULLY BEFORE USING THIS SOFTWARE.**
 
+### Key Features
+
+- Security audit - Identify services on a network and perform the security audit
+- Host discovery - Identify hosts on a network
+- Port scanning - Enumerate the open TCP ports on a target host
+- HiBP integration - Ensure your personal data has not been compromised by data breaches
+- Shodan integration - Ensure you know all the "things" on a network directly connected to the Internet
+
 ### Vulnerability Tests
 
 - [*CVE–2014–9222* aka "Misfortune Cookie" vulerability confirmed](vulndb/allegrosoft-rompager-4-34-and-earlier-allows-remote-attackers-to-gain-privileges.md)
