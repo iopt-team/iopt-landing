@@ -39,6 +39,6 @@
 
 ### Toolset
 
-- **"Have I Been Pwned Tool"** - Allows to check, if you have an account that has been compromised in a data breach
-- **"Shodan Tool"** - Allows to check, if you have someting exposed directly to the Internet
-- **"Port Scan Tool"** - Allows to check, which port(s) is open on a remote device
+- **"Have I Been Pwned tool"** - Allows to check, if you have an account that has been compromised in a data breach
+- **"Shodan visibility tool"** - Allows to check, if you have someting exposed directly to the Internet
+- **"Port scanning tool"** - Allows to check, which port(s) is open on a remote device
