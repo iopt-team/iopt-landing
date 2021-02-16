@@ -29,7 +29,13 @@
 - [An unauthenticated PHP code injection in Seagate NAS products](vulndb/seagate-nas-unauthenticated-rce-via-php-injection.md)
 - [*CVE-2020-27403* A vulnerability in the TCL Android Smart TV series by TCL Technology Group Corporation](vulndb/404.md)
 - [*CVE-2020-28347,CVE-2020-10882* An unauthenticated network-adjacent RCE by abusing the tldServer daemon](vulndb/404.md)
-- [*CVE-2020-28184,CVE-2020-28185,CVE-2020-28186,CVE-2020-28187,CVE-2020-28188,CVE-2020-28190,CVE-2020-28189* Multiple vulnerabilities in TerraMaster TOS <= 4.2.06](vulndb/404.md)
+- [*CVE-2020-28184* XSS in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28185* User enumeration in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28186* Email injection in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28187* Directory traversal in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28188* Unauthenticated remote command execution in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28189* Incorrect access control in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
+- [*CVE-2020-28190* Software update via insecure communication channel in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
 
 ### Toolset
 
