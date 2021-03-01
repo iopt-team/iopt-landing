@@ -11,6 +11,7 @@
 - Port scanning - Enumerate the open TCP ports on a target host
 - HiBP integration - Ensure your personal data has not been compromised by data breaches
 - Shodan integration - Ensure you know all the "things" on a network directly connected to the Internet
+- RTSP audit - Perform a security audit for an RTSP source(e.g. CCTV installation). Check your network for unauthorized CCTV installations.
 
 ### Vulnerability Tests
 
@@ -43,3 +44,4 @@
 - **"Have I Been Pwned tool"** - Allows to check, if you have an account that has been compromised in a data breach
 - **"Shodan visibility tool"** - Allows to check, if you have someting exposed directly to the Internet
 - **"Port scanning tool"** - Allows to check, which port(s) is open on a remote device
+- **"RTSP audit"** - Allows to check, if you have CCTV installation security issues or find unauthorized CCTV installations
