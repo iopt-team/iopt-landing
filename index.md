@@ -15,7 +15,7 @@
 
 ### Vulnerability Tests
 
-- [*CVE–2014–9222* aka "Misfortune Cookie" vulerability confirmed](vulndb/allegrosoft-rompager-4-34-and-earlier-allows-remote-attackers-to-gain-privileges.md)
+- [*CVE–2014–9222* aka "Misfortune Cookie" vulerability](vulndb/allegrosoft-rompager-4-34-and-earlier-allows-remote-attackers-to-gain-privileges.md)
 - [*CVE-2014-4019* the rom-0 backup file](vulndb/rom-0-backup-file-disclosure.md)
 - [*CVE-2014-9583* unauthenticated command execution vulnerability in ASUS "infosrv" UDP service](vulndb/unauthenticated-command-execution-vulnerability-in-asus-infosrv-udp-service.md)
 - [Linksys E-Series unauthenticated OS command injection](vulndb/some-linksys-e-series-routers-are-vulnerable-to-an-unauthenticated-os-command-injection.md)
