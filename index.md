@@ -38,6 +38,7 @@
 - [*CVE-2020-28189* Incorrect access control in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
 - [*CVE-2020-28190* Software update via insecure communication channel in TerraMaster TOS <= 4.2.06](vulndb/multiple-vulnerabilities-in-terramaster-tos-lt-4206.md)
 - [Netgear httpd upgrade_check.cgi stack buffer overflow](vulndb/pre-authentication-rce-in-netgear-soho-devices.md)
+- [*CVE-2020-35785* Multiple HTTP authentication vulnerabilities on DGN2200v1](vulndb/multiple-httpd-authentication-vulnerabilities-on-dgn2200v1.md)
 
 ### Toolset
 
