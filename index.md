@@ -41,6 +41,7 @@
 - [*CVE-2020-35785* Multiple HTTP authentication vulnerabilities on DGN2200v1](vulndb/multiple-httpd-authentication-vulnerabilities-on-dgn2200v1.md)
 - [*CVE-2018-18472* WD My Book Live RCE via shell metacharacters in language_configuration API endpoint](vulndb/all-data-in-mybook-live-gone-and-owner-password-unknown.md)
 - [*CVE-2021-35941* WD My Book Live has an administrator API that can perform a system factory restore without authentication](vulndb/all-data-in-mybook-live-gone-and-owner-password-unknown.md)
+- [*CVE-2021-34527* Windows Print Spooler Remote Code Execution Vulnerability](vulndb/windows-print-spooler-remote-code-execution-vulnerability-aka-printnightmare.md)
 
 ### Toolset
 
