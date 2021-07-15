@@ -18,6 +18,6 @@ NETGEAR strongly recommends that you download the latest firmware as soon as a f
 
 #### References
 
-[Pre-Authentication Remote Code Execution in Netgear SOHO devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/2776cfb25e2a94ebc39e6518bc9139101f20266d/2020.06.15-netgear)
-[Netgear httpd upgrade_check.cgi stack buffer overflow](https://www.kb.cert.org/vuls/id/576779)
-[Security Advisory for Multiple Vulnerabilities on Some Routers, Mobile Routers, Modems, Gateways, and Extenders](https://kb.netgear.com/000061982/Security-Advisory-for-Multiple-Vulnerabilities-on-Some-Routers-Mobile-Routers-Modems-Gateways-and-Extenders)
+- [Pre-Authentication Remote Code Execution in Netgear SOHO devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/2776cfb25e2a94ebc39e6518bc9139101f20266d/2020.06.15-netgear)
+- [Netgear httpd upgrade_check.cgi stack buffer overflow](https://www.kb.cert.org/vuls/id/576779)
+- [Security Advisory for Multiple Vulnerabilities on Some Routers, Mobile Routers, Modems, Gateways, and Extenders](https://kb.netgear.com/000061982/Security-Advisory-for-Multiple-Vulnerabilities-on-Some-Routers-Mobile-Routers-Modems-Gateways-and-Extenders)
