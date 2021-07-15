@@ -1,3 +1,6 @@
+---
+title: The rom-0 backup file disclosure
+---
 The rom-0 backup file contains sensitive information such as the router password. There is a disclosure in which anyone can download the file without any authentication. Vulnerability is easily identifiable by querying /rom-0 via HTTP GET request. Affected devices include ZTE, TP-Link, ZynOS, Huawei and many others.
 
 #### Recommendations

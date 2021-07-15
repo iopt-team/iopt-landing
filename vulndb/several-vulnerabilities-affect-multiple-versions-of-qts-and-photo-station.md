@@ -1,3 +1,6 @@
+---
+title: A local file inclusion vulnerability that allows an unauthenticated attacker to download files from the QNAP filesystem
+---
 Several vulnerabilities have been reported to affect multiple versions of QTS and Photo Station.
 
 - CVE-2019-7192: This improper access control vulnerability allows remote attackers to gain unauthorized access to the system. 

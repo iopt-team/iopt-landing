@@ -1,3 +1,6 @@
+---
+title: TerraMaster TOS Multiple Vulnerabilities
+---
 In 2020, IHTeam performed a security review of the TOS version 4.2.06 and identified the following:
 
 - CVE-2020-28184 – XSS

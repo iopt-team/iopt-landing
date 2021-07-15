@@ -1,3 +1,6 @@
+---
+title: "Misfortune Cookie" vulerability
+---
 This issue occurs due to an error within the HTTP cookie management mechanism that allows any user to determine the Fortune of a request by manipulating cookies. An attacker can exploit this issue to corrupt memory and alter the application state by sending specially crafted HTTP cookies. This can be further exploit to gain the administrative privileges for the current session by tricking the attacked device. 
 
 #### Recommendations

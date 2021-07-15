@@ -16,10 +16,10 @@
 ### Vulnerability Tests
 
 - [*CVE–2014–9222* aka "Misfortune Cookie" vulerability](vulndb/allegrosoft-rompager-4-34-and-earlier-allows-remote-attackers-to-gain-privileges.md)
-- [*CVE-2014-4019* the rom-0 backup file](vulndb/rom-0-backup-file-disclosure.md)
-- [*CVE-2014-9583* unauthenticated command execution vulnerability in ASUS "infosrv" UDP service](vulndb/unauthenticated-command-execution-vulnerability-in-asus-infosrv-udp-service.md)
+- [*CVE-2014-4019* The rom-0 backup file disclosure](vulndb/rom-0-backup-file-disclosure.md)
+- [*CVE-2014-9583* Unauthenticated command execution vulnerability in ASUS "infosrv" UDP service](vulndb/unauthenticated-command-execution-vulnerability-in-asus-infosrv-udp-service.md)
 - [Linksys E-Series unauthenticated OS command injection](vulndb/some-linksys-e-series-routers-are-vulnerable-to-an-unauthenticated-os-command-injection.md)
-- [DBL(Domain Name System Blacklists) enlisting](vulndb/about-dnsbl.md)
+- [DNSBL(Domain Name System Blacklists) enlisting](vulndb/about-dnsbl.md)
 - [*CVE-2020-12695* SSRF-like vulnerability detected a.k.a. CallStranger](vulndb/ssrf-like-vuln-aka-callstranger.md)
 - [Check if DNS server IP address and the network public IP address belong to the same GEO and/or ISP](vulndb/is-the-rogue-dns-server-so-dangerous.md)
 - [*CVE-2017-0144* SMB server allows remote attackers to execute arbitrary code via crafted packets](vulndb/multiple-windows-smb-remote-code-execution-vulnerabilities.md)

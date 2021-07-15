@@ -1,3 +1,6 @@
+---
+title: Western Digital My Book Live Mass Exploitation
+---
 On June 24th, 2021 Western Digital My Book Live device owners were finding that their storage partitions were being wiped clean, meaning years of data some users have collected over time (home videos and pictures, etc.) were inexplicably gone.
 
 My Book Live devices are being mass exploited to join a botnet. One user seems to confirm this is the case, after they ran the payload through VirusTotal, which reported it was part of the Linux.Ngioweb malware family. It appears the actor(s) are taking advantage of CVE-2018-18472. The vulnerability allows simple unauthenticated remote command execution via a simple PUT request to the /api/1.0/rest/language_configuration endpoint.

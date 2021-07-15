@@ -1,3 +1,6 @@
+---
+title: An unauthenticated PHP code injection in Seagate NAS products
+---
 Seagate Business NAS products come with a web-enabled management application. This application lets administrators perform the usual device configuration functions, such as adding users, setting up access control, managing files, and more.
 The application is build on the out of date technologies, which are known to have security issues. On top of these technologies sits a custom PHP application, which itself contains a number of security-related issues.
 

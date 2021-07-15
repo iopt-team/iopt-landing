@@ -1,3 +1,6 @@
+---
+title: SMB server allows remote attackers to execute arbitrary code via crafted packets
+---
 Remote code execution vulnerabilities exist in the way that the Microsoft Server Message Block 1.0 (SMBv1) server handles certain requests. An attacker who successfully exploited the vulnerabilities could gain the ability to execute code on the target server.
 To exploit the vulnerability, in most situations, an unauthenticated attacker could send a specially crafted packet to a targeted SMBv1 server.
 

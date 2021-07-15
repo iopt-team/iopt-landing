@@ -1,3 +1,6 @@
+---
+title: A vulnerability in the TCL Android Smart TV series by TCL Technology Group Corporation
+---
 A vulnerability in the TCL Android Smart TV series V8-R851T02-LF1 V295 and below and V8-T658T01-LF1 V373 and below by TCL Technology Group Corporation allows an 
 attacker on the adjacent network to arbitrarily browse and download sensitive files over an insecure web server running on port 7989 that lists all files & directories.
 An unprivileged remote attacker on the adjacent network, can download most system files, leading to serious critical information disclosure. Also, some TV models and/or 

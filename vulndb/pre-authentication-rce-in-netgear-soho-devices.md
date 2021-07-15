@@ -1,3 +1,6 @@
+---
+title: Pre-Authentication Remote Code Execution in Netgear SOHO devices
+---
 Multiple Netgear devices contain a stack buffer overflow in the httpd web server's handling of upgrade_check.cgi, 
 which may allow for unauthenticated remote code execution with root privileges.
 

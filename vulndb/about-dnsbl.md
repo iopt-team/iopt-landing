@@ -1,3 +1,6 @@
+---
+title: DNSBL(Domain Name System Blacklists)
+---
 ##### What is a DNSBL?
 
 Domain Name System Blacklists, also known as DNSBL or DNS Blacklists, are spam blocking lists that allow a website administrator to block messages from specific systems that have a history of sending spam. As their name implies, the lists are based on the Internet Domain Name System, which converts complicated, numerical IP address into domain names, making the lists much easier to read, use, and search.

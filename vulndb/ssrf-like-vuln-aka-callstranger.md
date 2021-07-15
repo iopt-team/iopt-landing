@@ -1,3 +1,6 @@
+---
+title: SSRF-like vulnerability detected a.k.a. CallStranger
+---
 The CallStranger vulnerability that is found in billions of UPNP devices can be used to exfiltrate data (even if you have proper DLP/border security means) or scan 
 your network or even cause your network to participate in a DDoS attack.
 

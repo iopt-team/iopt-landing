@@ -1,3 +1,6 @@
+---
+title: DNS hijacking
+---
 The Domain Name System (DNS) is the part of Internet infrastructure that resolves easily-remembered domain names that humans use into more obscure IP addresses thatInternet-connected computers use. The object of malicious DNS server is to cause your computer to visit different services than you intend and make doing so entirely invisible to you. Usage of malicious DNS server(s), leads to DNS hijacking, MITM, phishing and etc. attacks on the network.
 
 #### Recommendations

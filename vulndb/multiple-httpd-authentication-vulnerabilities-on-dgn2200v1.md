@@ -1,3 +1,6 @@
+---
+title: NETGEAR firmware vulnerabilities that could lead to identity theft and full system compromise
+---
 Microsoft researchers discovered the firmware flaws in the DGN-2200v1 series router that can enable authentication bypass to take over devices and access stored credentials.
 
 Netgear has patched three bugs in one of its router families that, if exploited, can allow threat actors to bypass authentication to breach corporate networks and steal data and credentials.
