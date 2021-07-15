@@ -1,3 +1,6 @@
+---
+title: End-User License Agreement (EULA)
+---
 ## License Agreement
 
 The License Agreement is an offer from the EnsoTech LLC (hereinafter referred to the &quot;Rightholder&quot;) to enter into the agreement upon the terms and conditions stated below.
