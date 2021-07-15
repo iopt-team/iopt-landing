@@ -42,6 +42,7 @@
 - [*CVE-2018-18472* WD My Book Live RCE via shell metacharacters in language_configuration API endpoint](vulndb/all-data-in-mybook-live-gone-and-owner-password-unknown.md)
 - [*CVE-2021-35941* WD My Book Live has an administrator API that can perform a system factory restore without authentication](vulndb/all-data-in-mybook-live-gone-and-owner-password-unknown.md)
 - [*CVE-2021-34527* Windows Print Spooler Remote Code Execution Vulnerability aka PrintNightmare](vulndb/windows-print-spooler-remote-code-execution-vulnerability-aka-printnightmare.md)
+- [*CVE-2021-31802* NETGEAR Nighthawk R7000 httpd PreAuth RCE](vulndb/netgear-nighthawk-r7000-httpd-preauth-rce.md)
 
 ### Toolset
 
