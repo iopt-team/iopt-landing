@@ -2,7 +2,7 @@
 title: CHANGELOG
 ---
 
-## ver. 1.0.2 rev. 1034 - 2021-07-15
+## ver. 1.0.2 rev. 1034 - 2021-08-06
 ### Added
 - Reverse DNS via Multicast DNS
 ### Changed
