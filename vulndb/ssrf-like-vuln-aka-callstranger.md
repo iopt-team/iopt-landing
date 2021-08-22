@@ -22,5 +22,6 @@ Don't port forward to UPnP endpoints. Home users don't need to disable UPnP for 
 #### References
 
 * [http://callstranger.com/](http://callstranger.com/)
+* [CallStranger - Technical Report.pdf](</files/CallStranger - Technical Report.pdf>)
 
 > CVE-2020-12695
