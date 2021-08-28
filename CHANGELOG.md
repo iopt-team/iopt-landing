@@ -2,6 +2,14 @@
 title: CHANGELOG
 ---
 
+## ver. 1.0.3 rev. 1061 - 2021-08-28
+### Added
+- Network host naming
+- Cisco HW detection by SNMP
+- Critical UPnP Service Flaw on Cisco Small Business RV Series Routers
+- Port scan history
+### Fixed
+- SNMP plugin
 ## ver. 1.0.2 rev. 1034 - 2021-08-06
 ### Added
 - Reverse DNS via Multicast DNS
