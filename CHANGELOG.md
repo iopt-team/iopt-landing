@@ -2,6 +2,9 @@
 title: CHANGELOG
 ---
 
+## ver. 1.0.3 rev. 1062 - 2021-08-29
+### Fixed
+- Minor bug fix
 ## ver. 1.0.3 rev. 1061 - 2021-08-28
 ### Added
 - Network host naming
