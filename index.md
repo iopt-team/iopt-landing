@@ -44,6 +44,9 @@
 - [*CVE-2021-34527* Windows Print Spooler Remote Code Execution Vulnerability aka PrintNightmare](vulndb/windows-print-spooler-remote-code-execution-vulnerability-aka-printnightmare.md)
 - [*CVE-2021-31802* NETGEAR Nighthawk R7000 httpd PreAuth RCE](vulndb/netgear-nighthawk-r7000-httpd-preauth-rce.md)
 - [*CVE-2021-34730* Critical UPnP Service Flaw on Cisco Small Business RV Series Routers](vulndb/cisco-will-not-patch-critical-flaw-in-eof-routers.md)
+- [*CVE-2020-2501,CVE-2021-28797* Stack Buffer Overflow in QNAP Surveillance Station](vulndb/stack-buffer-overflow-in-qnap-surveillance-station.md)
+- [HTTP Path Traversal](vulndb/http-path-traversal.md)
+- [*CVE-2021-34730* RCE vulnerability in TP-Link Wi-Fi Extenders via a malformed user agent field in HTTP headers](vulndb/rce-vulnerability-in-tp-link-wi-fi-extenders-via-user-agent.md)
 
 ### Toolset
 

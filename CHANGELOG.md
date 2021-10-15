@@ -2,6 +2,14 @@
 title: CHANGELOG
 ---
 
+## ver. 1.0.4 rev. 1073 - 2021-10-15
+### Added
+- Stack Buffer Overflow in QNAP Surveillance Station
+- RCE vulnerability via a malformed user agent field in HTTP headers
+- HTTP path traversal test
+- Detect "Hubble Connected" devices
+### Fixed
+- Bad Wi-Fi signal does not mean no Internet access
 ## ver. 1.0.3 rev. 1062 - 2021-08-29
 ### Fixed
 - Minor bug fix
