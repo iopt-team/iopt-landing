@@ -47,6 +47,8 @@
 - [*CVE-2020-2501,CVE-2021-28797* Stack Buffer Overflow in QNAP Surveillance Station](vulndb/stack-buffer-overflow-in-qnap-surveillance-station.md)
 - [HTTP Path Traversal](vulndb/http-path-traversal.md)
 - [*CVE-2021-34730* RCE vulnerability in TP-Link Wi-Fi Extenders via a malformed user agent field in HTTP headers](vulndb/rce-vulnerability-in-tp-link-wi-fi-extenders-via-user-agent.md)
+- [*CVE-2021-27248,CVE-2021-27249,CVE-2021-27250,CVE-2021-34860,CVE-2021-34861,CVE-2021-34862,CVE-2021-34863* Multiple vulnerabilities in DAP-2020 H/W rev. Ax with F/W v1.01 and below](vulndb/dlink-dap-2020-hw-ax-fw-lt-101-multi.md)
+- [*CVE-2021-33044,CVE-2021-33045* Identity authentication bypass vulnerability found in some Dahua products](vulndb/identity-authentication-bypass-vulnerability-found-in-some-dahua-products.md)
 
 ### Toolset
 
