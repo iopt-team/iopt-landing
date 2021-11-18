@@ -1,7 +1,20 @@
 ---
 title: CHANGELOG
 ---
-
+## ver. 1.1.0 rev. 1225 - 2021-11-16
+### Changed
+- Move "Scan history" to a separate fragment<br/>
+- Unlock screen orientation<br/>
+- Simplify FAB set<br/>
+- Update dependencies<br/>
+- Change the appearance of alerts<br/>
+- Meet the targetSdk requirement<br/>
+### Added
+- Multiple vulnerabilities in DAP-2020 H/W rev. Ax with F/W v1.01 and below<br/>
+- Identity authentication bypass vulnerability found in some Dahua products<br/>
+### Fixed
+- Billing issue fixed<br/>
+- RTPS MediaPlayer release resources on reuse<br/>
 ## ver. 1.0.4 rev. 1073 - 2021-10-15
 ### Added
 - Stack Buffer Overflow in QNAP Surveillance Station
