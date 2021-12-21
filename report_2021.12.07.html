@@ -1,0 +1,104 @@
+<html>
+    <head>
+        <style>
+            table.fixed { table-layout: fixed; width: 1024px; }
+            table.fixed td { text-align: left; vertical-align: top; }
+            table.fixed th { font-weight: normal; vertical-align: top; }
+            table.fixed th p { text-align: left; }
+            table.fixed img { display: block; width: 100%; }
+        </style>
+        <title>IoPT scan statistics report of JAN 07, 2021</title>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MK0E8ELDR7"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-MK0E8ELDR7');
+        </script>
+        <script type="text/javascript">
+          function advAndGoToPlay() {
+            pintrk('track', 'pagevisit', {}, function(didInit, error) { 
+              if (!didInit)
+                console.log(error);
+                window.location = 'https://play.google.com/store/apps/details?id=pro.dnovikov.iopt&utm_source=landing&utm_campaign=badge_pinterest&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1';
+              });
+          }
+        </script>
+    </head>
+    <body>
+        <h2 style="text-align: center; width: 1024px;">IoPT scan statistics report of JAN 07, 2021</h2>
+        <table class="fixed">
+            <tbody>
+                <tr>
+                    <th>
+                        <h3>Distribution of vulnerable networks</h3>
+                        <p><i>Note: at least one vulnerability detected</i></p>
+                    </th>
+                    <th>
+                        <h3>Top 20 Default Gateway Vendors by MAC OUI</h3>
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="./files/report_vuln_per_network_distr_2021.12.07.png"><img src="./files/report_vuln_per_network_distr_2021.12.07.png" /></a>
+                    </td>
+                    <td>
+                        <a href="./files/report_default_gateway_vendor_top20_2021.12.07.png"><img src="./files/report_default_gateway_vendor_top20_2021.12.07.png" /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <h3>Remote code execution in Windows Spooler Service aka PrintNightmare distribution</h3>
+                        <p><i>Note: 4213 DCE RPC were detected in total, 3513 of which are found potentially vulnerable to PrintNightmare</i></p>
+                    </th>
+                    <th>
+                        <h3>Remote code execution vulnerabilities in the Microsoft SMB aka EternalBlue distribution</h3>
+                        <p><i>Note: 2088 Microsoft SMB were detected in total, 232 of which are found vulnerable to EternalBlue. Microsoft SMB discovery is based on combination of SMB and NetBios services.</i></p>
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="./files/report_PrintNightmare_distr_2021.12.07.png"><img src="./files/report_PrintNightmare_distr_2021.12.07.png" /></a>
+                    </td>
+                    <td>
+                        <a href="./files/report_EternalBlue_distr_2021.12.07.png"><img src="./files/report_EternalBlue_distr_2021.12.07.png" /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <h3>UPnP Top 50 by Model Name</h3>
+                    </th>
+                    <th>
+                        <h3>UPnP Top 50 Server</h3>
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="./files/report_upnp_by_modelName_top50_2021.12.07.png"><img src="./files/report_upnp_by_modelName_top50_2021.12.07.png" /></a>
+                    </td>
+                    <td>
+                        <a href="./files/report_upnp_by_Server_top50_2021.12.07.png"><img src="./files/report_upnp_by_Server_top50_2021.12.07.png" /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right; font-style: italic;" colspan="2">
+                        <p>
+                            <h4>Report parameters</h4>
+                            Total networks: 12266<br/>
+                            Total scans: 25945<br/>
+                            Median number of active nodes per network: 5<br/>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <a href="#" onclick="advAndGoToPlay();return false;">
+                             <img alt="Get it on Google Play" style="border:none;padding:0;margin:0;box-shadow:none;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
