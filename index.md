@@ -60,3 +60,8 @@
 ### Press About Us
 
 - [Best Network Security Apps of 2021 (Android)](https://leapdroid.com/best-network-security-apps-of-2021-android/) by [*Leap Droid*](https://leapdroid.com/)
+
+### Reports
+
+- [IoPT scan statistics report of JAN 07, 2021](report_2021.12.07.html)
+
